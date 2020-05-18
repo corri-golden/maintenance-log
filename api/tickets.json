@@ -1,0 +1,60 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "date": "2020-03-05",
+      "maintenanceIssue": "5k Oil Change",
+      "price": 102.55,
+      "type": "Routine"
+    },
+    {
+      "id": 2,
+      "date": "2020-03-09",
+      "maintenanceIssue": "Cabin Air Filter",
+      "price": 42.13,
+      "type": "Recommended"
+    },
+    {
+      "id": 3,
+      "date": "2020-03-27",
+      "maintenanceIssue": "Engine Air Filter",
+      "price": 46.23,
+      "type": "Emergency"
+    },
+    {
+      "date": "",
+      "maintenanceIssue": "",
+      "price": "",
+      "type": "Routine",
+      "id": 4
+    },
+    {
+      "date": "2020-05-06",
+      "maintenanceIssue": "Window Broken",
+      "price": "129.99",
+      "type": "Emergency",
+      "id": 5
+    },
+    {
+      "date": "",
+      "maintenanceIssue": "",
+      "price": "",
+      "type": "Routine",
+      "id": 6
+    },
+    {
+      "date": "2020-05-11",
+      "maintenanceIssue": "Flat Tire",
+      "price": "19.99",
+      "type": "Emergency",
+      "id": 7
+    },
+    {
+      "date": "2020-05-05",
+      "maintenanceIssue": "Smoke from Under the hood",
+      "price": "n/a",
+      "type": "Emergency",
+      "id": 16
+    }
+  ]
+}
